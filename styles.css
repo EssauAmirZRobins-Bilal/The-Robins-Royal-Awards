@@ -1,0 +1,23 @@
+h1{
+    color: white;
+    font-family: 'Montserrat', sans-serif;
+}
+body {
+    background-image: url("https://www.welovebuzz.com/wp-content/uploads/2018/01/13A9EC99-54BE-4DA0-B9EE-E479A2AD7DF2.jpeg");
+}
+img {
+    width: 300px;
+}
+.title {
+    text-decoration: underline;
+}
+text{
+text-align: center;
+}
+p {
+    color: white;
+    font-family: 'Montserrat', sans-serif;
+}
+.bigpic{
+    width: 500px;
+}    
